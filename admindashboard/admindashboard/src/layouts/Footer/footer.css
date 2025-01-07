@@ -1,0 +1,6 @@
+.left{
+    background-color: rgb(62, 159, 237);
+    height: 65px;
+    display: flex;
+    align-items: center;
+}
